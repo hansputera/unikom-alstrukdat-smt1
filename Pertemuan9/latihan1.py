@@ -77,3 +77,4 @@ else:
 print(f"Luas : {luas:.2f}")
 print(f"Keliling : {keliling:.2f}")
 
+## Created by HANIF DWY PUTRA S. (NIM: 10125905)

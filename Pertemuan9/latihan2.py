@@ -7,3 +7,5 @@ def kabisat(tahun: int):
 
 tahun = int(input("Tahun : "))
 print(kabisat(tahun))
+
+## Created by HANIF DWY PUTRA S. (NIM: 10125905)
