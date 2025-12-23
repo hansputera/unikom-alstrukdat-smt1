@@ -20,10 +20,8 @@ def hitung_deret():
         b2 = a2 + b
 
         if i % 2 == 0:
-            print(f"Iterasi ke-{i+1} : {a}/{b} - {a2}/{b2}")
             result -= a2 / b2
         else:
-            print(f"Iterasi ke-{i+1} : {a}/{b} + {a2}/{b2}")
             result += a2 / b2
 
         a, b = a2, b2
